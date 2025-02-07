@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "natashazizic.github.io"
+  title: "natashazizic.github.io "
   navbar:
     left:
       - href: index.qmd
