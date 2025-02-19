@@ -1,0 +1,53 @@
+---
+title: "Resume"
+format: html
+---
+
+## Natasha Zizic         
+Fort Collins, Colorado | natashazizic42@gmail.com | 303-859-1644
+
+### EDUCATION												
+Colorado State University - Fort Collins, Colorado 
+
+Bachelor of Science: Ecosystem Science and Sustainability    (Expected May 2025)                  
+Minor: Environmental Sociology
+
+##### Relevant Coursework: 
+- Geospatial Science 
+- Public Communication in Natural Resources 
+- Natural Resource Ecology & Measurements
+- Information Management for Sustainability 
+
+### VOLUNTEER EXPERIENCE & CERTIFICATIONS  								
+- Clothes To Kids, Denver, Colorado – Volunteer Position (April 2018)
+- Leave No Trace – Introductory Workshop (June 2023)
+- Project Learning Tree – Certification (April 2024)
+- Gardens on Spring Creek – Volunteer Position (May - July 2024)
+
+### EMPLOYMENT 					    								
+##### Marketing Intern – Hach Company - Loveland Colorado (August 2024 - Present)
+- Conducted digital asset management for a global water quality company 
+- Facilitated the migration of assets to the Product Information Management (PIM) system
+- Assisted in the creation of an eLearning platform for the Digital Asset Management (DAM) platform
+- Acquired experience with laboratory instruments used to measure various parameters of water quality 
+
+##### Hostess – Creekside Cellars - Evergreen, Colorado (January 2019 - March 2020)
+- Provided a professional and welcoming environment for customers
+- Implemented a technology-based system to manage scheduling and table reservations
+- Assisted in daily cleaning, maintenance and food running 
+
+##### Gymnastics Coach – Pinnacle Gymnastic Academy - Evergreen, Colorado (May 2018 - January 2019)
+- Provided a safe yet engaging experience for preschool and elementary school children 
+- Evaluated students' strengths and progress to determine their level placement 
+- Maintained frequent and efficient communication with parents and gym staff 
+
+### RELEVANT SKILLS 													
+- Microsoft Office 
+- Customer Service
+- Adobe Photoshop & Lightroom
+- TinkerCAD 
+- Digital Asset Management
+- ArcGIS Pro 
+- Product Information Management
+- Laboratory Skills 
+

@@ -3,18 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "natashazizic.github.io"
+  title: "Natasha Zizic"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resume.qmd
+      - Projects.qmd
+  page-footer:
+    background: light 
+    left: Natasha Zizic
+    right: February, 2025
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: styles.scss
+    mainfont: Montserrat
     toc: true
+    page-layout: full
 
 editor: visual
 

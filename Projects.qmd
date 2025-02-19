@@ -1,0 +1,22 @@
+---
+title: "CSU Projects"
+format: html
+---
+
+##### Building a Website 
+ - Built an interactive user site with Github pages 
+ - Became familiar with YMAL, HTML, and CSS
+ - Access the site [here](https://natashazizic.github.io/)
+
+##### Sensory Garden Design
+ - Collaborated with The Gardens on Spring Creek in Fort Collins, Colorado 
+ - Designed a sensory garden to promote inclusivity at the botanical gardens 
+ - Designed an interactive 3D model of the garden using TinkerCAD
+
+##### Carbon Sequestration Grant Proposal 
+  - Researched soil carbon storage in tropical ecosystems 
+  - Proposed a research project that will determine the impact of reforestation on soil carbon stocks in the Amazon Rainforest 
+  
+##### "Climate Quest" Children's Book 
+  - Wrote and illustrated a picture book to communicate concepts of climate justice to a younger audience 
+  - Based the story on a true circumstance of climate injustice, framed in a way to appeal to a specific audience 

@@ -1,7 +1,22 @@
 ---
-title: "natashazizic.github.io"
-author: "Natasha Zizic"
+title: "Natasha Zizic"
 output: html
+image: Desktop/IMG3779.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/natasha-zizic/
+    - icon: github
+      text: GitHub
+      href: https://github.com/natashazizic
+    - icon: envelope
+      text: Email
+      href: mailto:nzizic@colostate.edu
 ---
-
+Hello! My name is Natasha Zizic. I am a student at Colorado State University studying Ecosystem Science and Sustainability with a minor in Sociology. I am planning to graduate in May of 2025. I will continue my current position working in water quality, and eventually go back to school for a masters degree. I am passionate about ecological conservation and environmental justice, and Hope to implement these interests in my future career. Outside of my professional life, I have many outdoor hobbies, including hiking, camping and snowboarding. I also love to travel and explore different parts of the world. 
 

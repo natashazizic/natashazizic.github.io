@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+/*-- scss:defaults --*/
+
+// Import fonts 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Colors
+$dark-blue: #247D7F;
+$light-blue: #E7F1F3;
+$cream: #FDFBF7;
+$med-blue: #80B9C8;
+$very-dark: #193A3E;
+
+// Base document colors
+$navbar-bg: $dark-blue; 
+$navbar-fg: $cream;
+$navbar-hl: $med-blue;
+$body-bg: $light-blue;
+$body-color: $very-dark;
+$footer-bg: $med-blue;
+$link-color: $dark-blue; 
+
+// Inline code
+$code-bg: $light-blue;
+$code-color: $very-dark;
+
